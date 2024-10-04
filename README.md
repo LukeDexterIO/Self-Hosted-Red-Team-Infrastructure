@@ -20,4 +20,16 @@ Use ethically and legally, we do not condone anything otherwise.
 
 
 
+### OSINT
+
+
+
+### 
+
+
+
 ### Password Cracking
+
+
+
+### Storage
